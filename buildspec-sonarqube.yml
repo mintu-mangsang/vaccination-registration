@@ -2,7 +2,7 @@ version: 0.2
 env:
   shell: bash
   variables:
-    SONAR_PROJECTKEY: vaccine-reg-project
+    SONAR_PROJECTKEY: Vaccination-registration-sonaranalysis
 
   parameter-store:
     SONAR_HOSTURL: sonar-host
